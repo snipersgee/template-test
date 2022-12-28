@@ -44,3 +44,11 @@ body {
 .fa-quote-left {
     font-size: 4rem;
 }
+
+/* Quote Author */
+.quote-author {
+    margin-top: 15px;
+    font-size: 2rem;
+    font-weight: 400;
+    font-style: italic;
+}
