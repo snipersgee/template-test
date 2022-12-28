@@ -53,6 +53,13 @@ body {
     font-style: italic;
 }
 
+/* Button */
+.button-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
     .quote-container {
