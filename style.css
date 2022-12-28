@@ -35,6 +35,12 @@ body {
 }
 
 /* This would be dynamically updated with Javascript */
+/* Reduce size if quote is long */
 .long-quote {
     font-size: 2rem;
+}
+
+/* Increase Size of Quote Icon */
+.fa-quote-left {
+    font-size: 4rem;
 }
